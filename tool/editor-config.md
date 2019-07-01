@@ -44,27 +44,37 @@ charset = utf-8
 
 ## 规则
 
-### indent_style 缩进风格
+### indent_style
+
+缩进风格
 
 + tab
 + space
 
-### indent_size 缩进数量
+### indent_size
+
+缩进数量
 
 + 正整数
 + tab 使用 tab_width
 
-### tab_width tab 宽度
+### tab_width
+
+tab 宽度
 
 + 正整数
 
-### end_of_line 行尾序列
+### end_of_line
+
+行尾序列
 
 + lf
 + crlf
 + cr
 
-### charset 字符集
+### charset
+
+字符集
 
 + latin1
 + utf-8
@@ -72,17 +82,23 @@ charset = utf-8
 + utf-16le
 + utf-8-bom
 
-### trim_trailing_whitespace 清除末尾空白符
+### trim_trailing_whitespace
+
+清除末尾空白符
 
 + true 开启
 + false 关闭
 
-### insert_final_newline 末尾插入空行
+### insert_final_newline
+
+末尾插入空行
 
 + true 开启
 + false 关闭
 
-### max_line_length 每行最大字符数
+### max_line_length
+
+每行最大字符数
 
 + 正整数
 + off 关闭

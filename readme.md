@@ -17,11 +17,12 @@
 通用规则和工具：
 
 + [通用规则](./guides/common/readme.md)
-+ [EditorConfig](./guides/tool/editor-config.md)
++ [EditorConfig](./tool/editor-config.md)
 
 按语言：
 
 + [HTML](./guides/html/readme.md)
++ [CSS](./guides/css/readme.md)
 
 ## 协议
 

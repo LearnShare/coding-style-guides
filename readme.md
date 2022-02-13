@@ -14,15 +14,23 @@
 
 + [Google Style Guides](http://google.github.io/styleguide/)
 
-通用规则和工具：
+通用规则：
 
 + [通用规则](./guides/common/readme.md)
++ HTTP 和 API
+
+工具：
+
 + [EditorConfig](./tool/editor-config.md)
++ JSDoc
++ ESLint
++ Prettier
 
 按语言：
 
 + [HTML](./guides/html/readme.md)
 + [CSS](./guides/css/readme.md)
++ [JavaScript](./guides/javascript/readme.md)
 
 ## 协议
 

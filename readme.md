@@ -24,7 +24,12 @@
 + [EditorConfig](./tool/editor-config.md)
 + JSDoc
 + ESLint
-+ Prettier
++ ~Prettier~
+
+协作：
+
++ Git
++ 格式化
 
 按语言：
 
